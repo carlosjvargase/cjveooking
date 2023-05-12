@@ -13,5 +13,6 @@ I built a hotel booking application where you can use the calendar, search the n
 Se diseñó una aplicación de reservación de hotel donde podrás usar el calendario, buscar la cantidad de habitaciones y usuarios que requieran donde le lanzara una lista de opciones a escoger. Se construyó usando HTML, CSS, React Js, React Router Dome, React Calendar y los principales Hooks de React.
 
 ![cjveooking2](https://user-images.githubusercontent.com/104727028/236678768-56b539e9-3a99-49df-a7bd-90b1af43fe8c.PNG)
+![cjveooking3](https://github.com/carlosjvargase/cjveooking/assets/104727028/19c38474-1f04-4288-be9f-5caa57dab2fd)
 
 Web Site: https://cjveooking.web.app
